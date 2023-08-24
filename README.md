@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @martishaaddams
-- 👀 I’m interested in Mathematics, Mechaincs, Numerical methods
+- 👀 I’m interested in Mathematics, Mechanics, Numerical methods
 - 🌱 I’m currently studying at Lomonosov Moscow State University
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... podavan.maria@gmail.com
